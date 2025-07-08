@@ -23,7 +23,7 @@
 
 | Desktop | Mobile |
 |---------|--------|
-| ![desktop](print-desktop.png) | ![mobile]() |
+| ![desktop](print-desktop.png) | ![mobile](print-mobile.png) |
 
 ---
 
