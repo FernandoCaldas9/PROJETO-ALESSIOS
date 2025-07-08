@@ -23,7 +23,7 @@
 
 | Desktop | Mobile |
 |---------|--------|
-| ![desktop](img/print-pizzaria-desktop.png) | ![mobile](img/print-pizzaria-mobile.png) |
+| ![desktop](print-desktop.png) | ![mobile]() |
 
 ---
 
