@@ -4,7 +4,7 @@
 
 ## 💡 Funcionalidades
 
-- ✅ Layout totalmente responsivo e acessível  
+- ✅ Layout totalmente responsivo e acessível
 - ✅ Menu de navegação com links internos  
 - ✅ Cardápio completo com imagens e descrições  
 - ✅ Seções informativas sobre a pizzaria e contato  
